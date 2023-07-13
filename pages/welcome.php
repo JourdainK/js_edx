@@ -34,6 +34,20 @@
 
     </div>
 
+    <div class="col-6 text-center align-middle">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.10.1/fetch.js"></script>
+        <h3>Working with remote data</h3>
+        <p class="align-middle">
+            Type in the name of a Rock Band (ex: "The Rolling Stones", "Metallica", "The Who", "The Beatles", "Led Zeppelin", "Van Halen", "Grateful Dead").</p>
+
+        <label for="bandName">Band Name: </label>
+        <input type="text" id="bandName" value="Metallica">
+        <button onclick="search();">Look for members</button>
+
+        <div class="table align-middle" id="members"></div>
+
+    </div>
+
 </div>
 
 
