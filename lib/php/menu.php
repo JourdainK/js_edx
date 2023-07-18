@@ -25,6 +25,7 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="index.php?page=mod02_01.php">loop, operators</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod02_02.php">Handling events</a></li>
                     </ul>
                 </li>
             </ul>

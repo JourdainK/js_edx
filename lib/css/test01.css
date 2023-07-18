@@ -8,3 +8,8 @@ table, tr, td {
 td {
     padding:10px;
 }
+
+#hoverExample:hover{
+    color:red;
+    border:2px solid;
+}
