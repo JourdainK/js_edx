@@ -1,6 +1,5 @@
 <?php
 ?>
-<title>Handling events</title>
 
 <div class="row">
     <h3>Handling events</h3>
