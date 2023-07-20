@@ -28,6 +28,9 @@
                         <li><a class="dropdown-item" href="index.php?page=mod02_02.php">Handling events</a></li>
                         <li><a class="dropdown-item" href="index.php?page=mod02_03.php">Handling events 2</a></li>
                         <li><a class="dropdown-item" href="index.php?page=mod02_04.php">Key Events</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod02_05.php">Mouse Events</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod02_06.php">Form Events</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod02_07.php">DOM Api</a></li>
                     </ul>
                 </li>
             </ul>
