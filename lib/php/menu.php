@@ -31,6 +31,8 @@
                         <li><a class="dropdown-item" href="index.php?page=mod02_05.php">Mouse Events</a></li>
                         <li><a class="dropdown-item" href="index.php?page=mod02_06.php">Form Events</a></li>
                         <li><a class="dropdown-item" href="index.php?page=mod02_07.php">DOM Api</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod02_08.php">Interactivity</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod02_09.php">Mouse interaction</a></li>
                     </ul>
                 </li>
             </ul>
