@@ -35,6 +35,14 @@
                         <li><a class="dropdown-item" href="index.php?page=mod02_09.php">Mouse interaction</a></li>
                     </ul>
                 </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Module 3  - APIs
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="index.php?page=mod02_01.php">Arrays API</a></li>
+                    </ul>
+                </li>
             </ul>
         </div>
     </div>
