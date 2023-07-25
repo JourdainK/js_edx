@@ -45,6 +45,7 @@
                         <li><a class="dropdown-item" href="index.php?page=mod03_03.php">Video and audio</a></li>
                         <li><a class="dropdown-item" href="index.php?page=mod03_04.php">Webcam and recap</a></li>
                         <li><a class="dropdown-item" href="index.php?page=mod03_05.php">Geolocation API</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod03_06.php">audio APis</a></li>
                     </ul>
                 </li>
             </ul>

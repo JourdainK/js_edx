@@ -29,7 +29,7 @@
 
             <button class="btn btn-success" id="geolocate" >Click to show your location with OpenStreetMap</button>
 
-            <div id="map" class="map" style="width: 50%"></div>
+            <div id="map1" class="map" style="width: 50%"></div>
 
         </div>
 
@@ -42,12 +42,24 @@
 <div class="row">
 
     <div class="col-6 text-start align-middle p-4">
+        <h4>Reverse geocoding</h4>
+        <div class="align-middle">
+            <p>
+                Reverse geocoding is the process of converting geographic coordinates into a human-readable address.
+                <br>
+                For Google API, you need to get an API key. (Need to pay for it)
+                <br>
+                For OpenStreetMap, you don't need an API key.
+                <br>
+                <a href="https://www.gisgraphy.com/index.php" target="_blank">Gisgraphy Open source geocoder</a>
+            </p>
 
+        </div>
 
-    </div>
 
     <div class="col-6 text-start align-middle p-4">
-
+        Example :
+        <a href="https://codepen.io/w3devcampus/pen/ZEQJQQp" target="_blank">Code Pen example</a>
 
     </div>
 
