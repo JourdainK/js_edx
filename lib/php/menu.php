@@ -48,6 +48,26 @@
                         <li><a class="dropdown-item" href="index.php?page=mod03_06.php">audio APis</a></li>
                     </ul>
                 </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Module 4  - OOP
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="index.php?page=mod04_01.php">Object</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod04_02.php">Classes</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod04_03.php">Improved game</a></li>
+                    </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Module 5  - Forms
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="index.php?page=mod05_01.php">Object</a></li>
+                    </ul>
+                </li>
             </ul>
         </div>
     </div>
