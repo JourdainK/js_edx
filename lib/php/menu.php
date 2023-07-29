@@ -65,7 +65,10 @@
                         Module 5  - Forms
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="index.php?page=mod05_01.php">Object</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod05_01.php">Predefined objects</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod05_02.php">Tables, forms and input</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod05_03.php">JSON</a></li>
+                        <li><a class="dropdown-item" href="index.php?page=mod05_04.php">Contact manager app (Recap)</a></li>
                     </ul>
                 </li>
             </ul>
